@@ -1,1 +1,1 @@
-print "hello shtrikaona"
+print "hello shtrikaona koda"
